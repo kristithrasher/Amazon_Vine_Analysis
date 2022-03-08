@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview 
-Performed analysis for a company called Sellby. Jennifer, an employee at Sellby and I were tasked to analyze Amazon Reviews written by memebers of the paid Amazon Vine program. The Amazon Vine program is a swervice that allows manufacturers and publishers to receive reviews for their products. Sellby pay a small fee to Amazon and provide the Vine members with products and in return will publish a review. The goal is to determine if there is any bias toward favorable reviews from Vine members. I chose a dataset on furniture reviews. I will perform my analysis and write a report on if I see any bias from my dataset.  I used PySpark and Google Colab along with Amazon web services for this project. 
+Performed analysis for a company called Sellby. Jennifer, an employee at Sellby and I were tasked to analyze Amazon Reviews written by memebers of the paid Amazon Vine program. The Amazon Vine program is a swervice that allows manufacturers and publishers to receive reviews for their products. Sellby pay a small fee to Amazon and provide the Vine members with products and in return will publish a review. The goal is to determine if there is any bias toward favorable reviews from Vine members. I chose a dataset on furniture reviews. I will perform my analysis and write a report on if I see any bias from my dataset.  I used PySpark, PgAdmin, PostgreSQL and Google Colab along with Amazon web services (AWS). for this project. 
 
 ## Results
 
