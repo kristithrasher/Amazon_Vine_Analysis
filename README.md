@@ -29,7 +29,7 @@ Performed analysis for a company called Sellby. Jennifer, an employee at Sellby 
 
 
 ## Summary
-State if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statemnt then, provide one additional analysis that you coudl do with the dataset to support your statement. 
-Yes, I see there is a bias for reviews when it comes to paid Vine members. I see their is a higher percentage of 5-star ratings come from Paid Vine users. 
+There seems to be a lean towards a positive bias for reviews in the Vine program for paid vine users.  The results of the analysis show paid Vine Members have a higher percentage of 5 star ratings. We would need to do further analysis to say for sure.  
+
 
 
